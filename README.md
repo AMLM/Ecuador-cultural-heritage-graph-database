@@ -1,3 +1,1 @@
-# hello-world
-categories for open data and linked data
-Digital Humanities student working with cultural data
+Graph data base to explore relationships and inferences among cultural heritage categories in Ecuador.
